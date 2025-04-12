@@ -4,3 +4,4 @@
 • 221.054-0
 • Betancor
 • Tadeo
+git add .
